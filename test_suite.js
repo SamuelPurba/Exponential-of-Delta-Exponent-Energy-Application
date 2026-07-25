@@ -194,6 +194,7 @@ assert(appJsContent.includes('generateQRISPayload'), "Dynamic QRIS Code & Webhoo
 // PILLAR 10: EXPONENTIAL DELTA EXPONENT ENERGY ENGINE & EMBEDDED ASSETS INTEGRITY
 console.log("\n--- PILLAR 10: Exponential Delta Exponent Energy Engine & Embedded Assets Integrity ---");
 assert(fs.existsSync('Exponential of Delta Exponent Energy Application.pdf'), "File 'Exponential of Delta Exponent Energy Application.pdf' exists and is ready for release");
+assert(fs.existsSync('Exponential of Delta Exponent Energy Application.docx'), "File 'Exponential of Delta Exponent Energy Application.docx' exists and is ready for release");
 assert(fs.existsSync('ExponentialEnergy.exe'), "Bare-Metal Embedded C# Executable 'ExponentialEnergy.exe' compiled & verified");
 assert(appJsContent.includes('SamuelExponentialEnergyEngine'), "Samuel.AI Exponential Delta Energy Engine Core exists in app.js");
 assert(appJsContent.includes('calculateDeltaEnergy'), "Sub-ms Energy Divergence Solver calculateDeltaEnergy Verified");

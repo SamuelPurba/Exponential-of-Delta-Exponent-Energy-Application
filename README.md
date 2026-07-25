@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Scopus-Q1%20Top%201%25-gold.svg?style=for-the-badge&logo=scopus" alt="Scopus Q1 Top 1%">
-  <img src="https://img.shields.io/badge/Scopus%20Q1-Exponential%20Energy%20PDE-ff4500.svg?style=for-the-badge" alt="Scopus Q1 Exponential Energy PDE">
+  <img src="https://img.shields.io/badge/Scopus%20Q1-Top%201%25%20World%20Class-gold.svg?style=for-the-badge&logo=scopus" alt="Scopus Q1 Top 1% World Class">
   <img src="https://img.shields.io/badge/Journal--Grade-Elsevier%20%7C%20IEEE%20Standard-blue.svg?style=for-the-badge" alt="Elsevier IEEE Standard">
   <img src="https://img.shields.io/badge/Precision-100%25%20Verified-emerald.svg?style=for-the-badge" alt="100% Verified">
   <img src="https://img.shields.io/badge/Engine-Gauss--Legendre%2016--Point-purple.svg?style=for-the-badge" alt="Gauss-Legendre">

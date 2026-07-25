@@ -65,14 +65,14 @@ E_{\Delta}(x, y, n, t) &= \int_{0}^{t} \left( (x-y)^n \cdot e^{-\alpha \tau} + \
 
 ---
 
-## 💻 3. APLIKASI EMBEDDED BARE-METAL C# (`SamuelAI.exe` & `ExponentialEnergy.exe`)
+## 💻 3. APLIKASI EMBEDDED BARE-METAL C# (`ExponentialEnergy.exe`)
 
 Aplikasi host C# bare-metal menggunakan `HttpListener` multi-port server yang secara otomatis menjalankan peramban (*browser*) dan melayani seluruh aset aplikasi, dokumen PDF IEEE, serta data telemetri:
 
 ```csharp
-Console.Title = "Samuel.A.I Server - Exponential of Delta Exponent Energy Application";
+Console.Title = "Exponential of Delta Exponent Energy Application Server";
 Console.WriteLine("==============================================================");
-Console.WriteLine("  SAMUEL.A.I - EXPONENTIAL DELTA EXPONENT ENERGY SERVER");
+Console.WriteLine("    EXPONENTIAL OF DELTA EXPONENT ENERGY APPLICATION SERVER");
 Console.WriteLine("==============================================================");
 Console.WriteLine(" Server berhasil dijalankan pada --> http://localhost:3000/");
 ```

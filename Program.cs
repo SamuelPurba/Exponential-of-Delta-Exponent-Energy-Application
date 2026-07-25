@@ -9,7 +9,7 @@ using System.Threading;
 class Program {
     static string GetEmbeddedFile(string name) {
         var assembly = Assembly.GetExecutingAssembly();
-        var resourceName = "SamuelAI." + name;
+        var resourceName = "ExponentialEnergy." + name;
         using (Stream stream = assembly.GetManifestResourceStream(resourceName)) {
             if (stream == null) return "";
             using (StreamReader reader = new StreamReader(stream)) {
@@ -42,12 +42,12 @@ class Program {
         }
 
         try {
-            Console.Title = "Samuel.A.I Server - Rumus Perpangkatan Universal 4.0 & Exponential Energy";
+            Console.Title = "Exponential of Delta Exponent Energy Application Server";
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Cyan;
         } catch {}
         Console.WriteLine("==============================================================");
-        Console.WriteLine("  SAMUEL.A.I - EXPONENTIAL DELTA EXPONENT ENERGY SERVER");
+        Console.WriteLine("    EXPONENTIAL OF DELTA EXPONENT ENERGY APPLICATION SERVER");
         Console.WriteLine("==============================================================");
         try {
             Console.ResetColor();

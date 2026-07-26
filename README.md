@@ -26,9 +26,10 @@
 
 ## 📜 Manifesto & Abstrak Akademis (Scopus Q1 Executive Abstract)
 
+> [!NOTE]
 > **Manifes Riset & Abstrak Scopus Q1** — *“Melawan kemiskinan dengan pendidikan, melawan pemerintah korup penindas rakyat Indonesia dengan pengetahuan.”* 
 > 
-> Makalah publikasi dan repositori ini menyajikan **formalisasi akademis berstandar Scopus Q1**, audit kalkulus kritis, serta implementasi *engine* perangkat lunak kecerdasan buatan (A . I) interaktif untuk **Exponential of Delta Exponent Energy Application** karya **Samuel Hasiholan Omega, S. Tr. T.**. Persamaan diferensial dan divergensial energi ini mengintegrasikan ekuivalensi Teorema Binomial Newton $(x-y)^n = \sum_{k=0}^n \binom{n}{k} x^{n-k} (-1)^k y^k$, integrasi eksak deret tak hingga **Sophomore's Dream** $\int_0^1 x^x \, dx = \sum_{m=1}^{\infty} \frac{(-1)^{m-1}}{m^m} \approx 0.783430510712134$, arsitektur mikrokontroler embedded (STM32/ESP32), sensor arus ACS712 & transduser tegangan B25, telemetri *Smart Grid Edge IoT*, analitik bisnis *OPEX Savings*, serta *FinTech Smart Energy Meter Dynamic QRIS Payment Gateway*.
+> Saya, **Samuel Hasiholan Omega, S. Tr. T.**, memformulasi **Exponential of Delta Exponent Energy Application** untuk memodelkan diferensiasi dan divergensi energi kontinu melalui penggabungan ekuivalensi Teorema Binomial Newton $(x-y)^n = \sum_{k=0}^n \binom{n}{k} x^{n-k} (-1)^k y^k$ dengan nilai integral konvergen **Sophomore's Dream** $\int_0^1 x^x \, \mathrm{d}x = \sum_{m=1}^{\infty} \frac{(-1)^{m-1}}{m^m} \approx 0.783430510712134$. Formulasi dinamika energi ini saya wujudkan secara terpadu ke dalam sistem mikrokontroler embedded (STM32/ESP32), sensor arus ACS712, transduser B25, telemetri real-time *Smart Grid Edge IoT*, analitik efisiensi biaya (*OPEX Savings*), serta layanan *FinTech Smart Energy Meter Dynamic QRIS Payment Gateway*.
 
 **Kata Kunci (Scopus Index Terms)**: *Exponential Delta Exponent Energy, Audit Kalkulus Analitis, Teorema Binomial Newton, Sophomore's Dream, Edge IoT Telemetry, FinTech QRIS Metering, Circuit Schematic Blueprint, Kecerdasan Buatan (A . I), Politeknik Negeri Batam*.
 
@@ -39,7 +40,7 @@
 Persamaan dasar **Exponential of Delta Exponent Energy Application** didefinisikan sebagai berikut:
 
 $$\begin{aligned}
-E_{\Delta}(x, y, n, t) &= \int_{0}^{t} \left( (x-y)^n \cdot e^{-\alpha \tau} + \int_{0}^{1} \xi^\xi \, d\xi \right) d\tau \\
+E_{\Delta}(x, y, n, t) &= \int_{0}^{t} \left( (x-y)^n \cdot e^{-\alpha \tau} + \int_{0}^{1} \xi^\xi \, \mathrm{d}\xi \right) \mathrm{d}\tau \\
 &= \left[ (x-y)^n \cdot \frac{1 - e^{-\alpha t}}{\alpha} + 0.783430510712134 \cdot t \right]
 \end{aligned}$$
 
